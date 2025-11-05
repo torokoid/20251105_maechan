@@ -196,6 +196,8 @@ p.note { display: none; }
 <a href="20251105_017.JPG" target="_blank"><img src="20251105_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251105_018.JPG" target="_blank"><img src="20251105_018.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251105_019.JPG" target="_blank"><img src="20251105_019.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">寄付を募るおじさん、歌声はかなりのもの</span></h2>
 <a href="20251105_020.JPG" target="_blank"><img src="20251105_020.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">交通整理のお巡りさんは大忙し</span></h2>
